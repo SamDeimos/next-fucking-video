@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "using Ctrl + n you can skip ads",
+    "description": "",
+    "version": "1.0",
+    "permissions": [
+        "tabs",
+        "scripting",
+        "activeTab"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "host_permissions": [
+        "https://www.youtube.com/*"
+    ]
+}
