@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "using Ctrl + n you can skip ads",
-    "description": "",
+    "name": "Skip Fucking Ads",
+    "description": "using Ctrl + n you can skip ads",
     "version": "1.0",
     "permissions": [
         "tabs",
